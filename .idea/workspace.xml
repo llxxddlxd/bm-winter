@@ -12,42 +12,43 @@
     <session id="1085074442">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.115" value="2" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="12" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4124" />
+          <entry key="py" value="4150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4124" />
+          <entry key="Python" value="4150" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/account/account.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1237">
-              <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+            <state relative-caret-position="325">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding>
                 <element signature="e#52#62#0" expanded="true" />
                 <marker date="1534701468926" expanded="true" signature="211:212" ph="..." />
@@ -55,13 +56,16 @@
                 <marker date="1534701468926" expanded="true" signature="478:506" ph="..." />
                 <marker date="1534701468926" expanded="true" signature="528:562" ph="..." />
                 <marker date="1534701468926" expanded="true" signature="662:667" ph="..." />
-                <marker date="1534701468926" expanded="true" signature="1259:1645" ph="..." />
-                <marker date="1534701468926" expanded="true" signature="1640:1645" ph="..." />
-                <marker date="1534701468926" expanded="true" signature="2577:4770" ph="..." />
-                <marker date="1534701468926" expanded="true" signature="4601:4610" ph="..." />
-                <marker date="1534701468926" expanded="true" signature="4763:4770" ph="..." />
-                <marker date="1534701468926" expanded="true" signature="4787:4796" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SDK.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -69,7 +73,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
+            <state relative-caret-position="2275">
               <caret line="91" column="16" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="16" />
               <folding>
                 <marker date="1534700305003" expanded="true" signature="108:109" ph="..." />
@@ -110,12 +114,13 @@
         <option value="$PROJECT_DIR$/examples/testAccount.py" />
         <option value="$PROJECT_DIR$/src/base.py" />
         <option value="$PROJECT_DIR$/src/account/account.py" />
+        <option value="$PROJECT_DIR$/src/SDK.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="110" />
-    <option name="y" value="56" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="272" />
     <option name="width" value="1400" />
     <option name="height" value="857" />
   </component>
@@ -125,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,30 +141,12 @@
             <path>
               <item name="bumo-py" type="b2602c69:ProjectViewProjectNode" />
               <item name="bumo-py" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bumo-py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bumo-py" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bumo-py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bumo-py" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bumo-py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bumo-py" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blockchain" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,9 +278,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="260" y="272" width="1400" height="857" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12420786" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17254038" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -353,7 +341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="2275">
           <caret line="91" column="16" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="16" />
           <folding>
             <marker date="1534700305003" expanded="true" signature="108:109" ph="..." />
@@ -364,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/account/account.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1237">
-          <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+        <state relative-caret-position="325">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
             <element signature="e#52#62#0" expanded="true" />
             <marker date="1534701468926" expanded="true" signature="211:212" ph="..." />
@@ -373,13 +361,14 @@
             <marker date="1534701468926" expanded="true" signature="478:506" ph="..." />
             <marker date="1534701468926" expanded="true" signature="528:562" ph="..." />
             <marker date="1534701468926" expanded="true" signature="662:667" ph="..." />
-            <marker date="1534701468926" expanded="true" signature="1259:1645" ph="..." />
-            <marker date="1534701468926" expanded="true" signature="1640:1645" ph="..." />
-            <marker date="1534701468926" expanded="true" signature="2577:4770" ph="..." />
-            <marker date="1534701468926" expanded="true" signature="4601:4610" ph="..." />
-            <marker date="1534701468926" expanded="true" signature="4763:4770" ph="..." />
-            <marker date="1534701468926" expanded="true" signature="4787:4796" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SDK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
