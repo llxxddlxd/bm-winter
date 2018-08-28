@@ -5,8 +5,7 @@ import sys
 import os
 import random
 import ed25519
-sys.path.append(os.path.abspath(".."))
-print os.path.abspath("..")
+# sys.path.append(os.path.abspath(".."))
 from base import base
 class account(base):
     '账号类'
