@@ -10,6 +10,6 @@ class testAccount:
 
 
 testAccount = testAccount();
-ret = testAccount.testCreate(); 
+ret = testAccount.testCreate();
 print ret
 exit;
